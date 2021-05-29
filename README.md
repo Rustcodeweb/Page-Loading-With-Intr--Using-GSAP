@@ -1,4 +1,4 @@
-# Page-Loading-With-Intr--Using-GSAP
+# Page-Loading-With-Intro-Using-GSAP
 
 ## More Website Development Content Visit [RustcodeWeb](https://www.rustcodeweb.com/)
 
